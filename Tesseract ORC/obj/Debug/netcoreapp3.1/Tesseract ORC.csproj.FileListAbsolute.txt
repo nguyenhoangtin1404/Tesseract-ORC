@@ -1,0 +1,34 @@
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Tesseract ORC.exe
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract_ORC.Form1.resources
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.csproj.GenerateResource.cache
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.AssemblyInfoInputs.cache
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.AssemblyInfo.cs
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\x86\leptonica-1.80.0.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\x86\tesseract41.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\x64\leptonica-1.80.0.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\x64\tesseract41.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Tesseract ORC.deps.json
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Tesseract ORC.runtimeconfig.json
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Tesseract ORC.runtimeconfig.dev.json
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Tesseract ORC.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Tesseract ORC.pdb
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Tesseract.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.csproj.CopyComplete
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.pdb
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.genruntimeconfig.cache
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\tessdata\vie.traineddata
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Magick.NET-Q16-AnyCPU.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\Magick.NET.Core.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\Notice.txt
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Notice.txt
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Notice.txt
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Notice.txt
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+F:\Tin\Tesseract ORC\Tesseract ORC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Notice.txt
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.csprojAssemblyReference.cache
+F:\Tin\Tesseract ORC\Tesseract ORC\obj\Debug\netcoreapp3.1\Tesseract ORC.csproj.CoreCompileInputs.cache
